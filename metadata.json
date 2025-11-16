@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Indian Stock Analyzer",
+  "description": "A real-time market analysis system providing actionable BUY/HOLD/SELL recommendations for NSE & BSE stocks, featuring quantitative signals, sector strength, and risk analysis in a clean, modern UI.",
+  "requestFramePermissions": []
+}
